@@ -1,0 +1,24 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ body {
+     position: relative;
+     background: #000;
+     color: #fff;
+     overflow: hidden;
+
+
+ }
+
+ .background {
+     position: absolute;
+     top: 0;
+     left: 0;
+     object-fit: cover;
+     width: 100wh;
+     height: 100vh;
+     z-index: -1;
+
+ }
